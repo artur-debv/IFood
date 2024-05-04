@@ -14,7 +14,7 @@ import { useSession } from "next-auth/react";
 interface RestaurantItemProps {
   restaurant: Restaurant;
   className?: string;
-  userId:string;
+  userId?:string;
   userFavoriteRestaurants: UserFavoriteRestaurant[];
 }
 
