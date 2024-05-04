@@ -3,6 +3,11 @@ import { db } from "../_lib/prisma";
 import RestaurantItem from "./restaurant-item";
 import { authOptions } from "../_lib/auth";
 
+interface RestaurantItem {
+  // outras props
+  userId?: string;
+}
+
 const RestaurantList = async () => {
   const session = await getServerSession(authOptions);
 
