@@ -28,8 +28,6 @@ CREATE TABLE "Product" (
     "discountPercentage" INTEGER NOT NULL DEFAULT 0,
     "restaurantId" TEXT NOT NULL,
     "categoryId" TEXT NOT NULL,
-    c
-
     CONSTRAINT "Product_pkey" PRIMARY KEY ("id")
 );
 
