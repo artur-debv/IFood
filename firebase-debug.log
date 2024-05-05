@@ -1,0 +1,14 @@
+[debug] [2024-05-05T02:38:41.528Z] ----------------------------------------------------------------------
+[debug] [2024-05-05T02:38:41.530Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\arturzin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2024-05-05T02:38:41.531Z] CLI Version:   13.8.0
+[debug] [2024-05-05T02:38:41.531Z] Platform:      win32
+[debug] [2024-05-05T02:38:41.531Z] Node Version:  v21.4.0
+[debug] [2024-05-05T02:38:41.531Z] Time:          Sat May 04 2024 23:38:41 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2024-05-05T02:38:41.531Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-05T02:38:41.594Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-05T02:38:41.595Z] > authorizing via signed-in user (arturhuber78@gmail.com)
+[debug] [2024-05-05T02:38:41.595Z] [iam] checking project ifoods for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2024-05-05T02:38:41.597Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/ifoods:testIamPermissions [none]
+[debug] [2024-05-05T02:38:41.597Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/ifoods:testIamPermissions x-goog-quota-user=projects/ifoods
+[debug] [2024-05-05T02:38:41.597Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/ifoods:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
