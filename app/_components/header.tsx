@@ -101,7 +101,7 @@ const Header = () => {
               className="w-full justify-start space-x-3 rounded-full text-sm font-normal"
             >
               <HomeIcon size={16} />
-             <Link href="/">
+             <Link href="/page.tsx">
              <span className="block" >Início</span>
              </Link>
             </Button>
