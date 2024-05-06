@@ -35,7 +35,7 @@
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/lucascmpos/dev-food
+    $ git clone 
 
     # Install the dependencies
     $ npm i
