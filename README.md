@@ -35,7 +35,7 @@
 ```bash
 
     # Clone the repository
-    $ git clone 
+    $ git clone https://github.com/artur-debv/IFood.git
 
     # Install the dependencies
     $ npm i
