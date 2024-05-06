@@ -32,11 +32,16 @@
 <h1>Dowload</h1>
 
 
-```
-bash git clone https://github.com/seu-usuario/seu-repositório.git npm install npm run dev
-bash git clone https://github.com/seu-usuario/seu-repositório.git npm install npm run dev
-bash git clone https://github.com/seu-usuario/seu-repositório.git npm install npm run dev 
+```bash
 
+    # Clone the repository
+    $ git clone https://github.com/lucascmpos/dev-food
+
+    # Install the dependencies
+    $ npm i
+
+    # Started the project
+    $ npm run dev
 ```
 
 
