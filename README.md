@@ -2,7 +2,7 @@
 
 <h1>Projeto</h1>
 
-https://i-food-lime.vercel.app/
+i-food-lime.vercel.app
 
 
 <h1>📗 Sobre</h1>
