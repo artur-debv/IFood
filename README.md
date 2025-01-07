@@ -2,7 +2,7 @@
 
 <h1>Projeto</h1>
 
-[Dev food](https://i-food.vercel.app/)
+
 
 
 <h1>📗 Sobre</h1>
